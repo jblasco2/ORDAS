@@ -17,7 +17,7 @@
 # 11. Representamos ahora las 30  voces más diferenciadas
 # 12. Bigramas y trigramas
 # 13. Idf y tf_idf
-# 14. 
+# 14. SVM
 ####################################
 direccion <- ("~/Desktop/ORDAS/analisis_a_fondo/ordas/")
 #Carga las librería necesarias
