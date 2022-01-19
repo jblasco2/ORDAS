@@ -1,4 +1,7 @@
 #####################################
+
+# Código para datos de 'ORDAS/datos/analisis_a_fondo/ordas'
+#####################################
 # PRIMER ENSAYO ANÁLISIS COMPLETO
 #https://rpubs.com/Joaquin_AR/334526
 #https://www.cienciadedatos.net/documentos/38_text_minig_con_r_ejemplo_practico_twitter#introducción
