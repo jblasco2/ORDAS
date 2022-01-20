@@ -7,7 +7,7 @@
 
 #.  IMPOSTERS es una implementación de 'stylo' con la función imposters(), creada #para Elegir entre varios documentos indubitados  aquel que presenta mayores #similitudes con el documento dubitado que nos ocupa.
 
-# Lo empleamos con datos de carpeta 'textos_5'
+# Lo empleamos con datos de carpeta 'textos_5' y 'textos_6'
 #####################################################
 #La función de forma iterativa contrasta el texto dubitado con algunos textos #representativos de los posibles candidatos a la autoría.
 #Para ello debemos 
