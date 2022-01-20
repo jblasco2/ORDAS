@@ -4,7 +4,7 @@
 ## En la segunda (secondary_set), de testado, colocamos los textos objeto de nuestro análisis
 
 # Establecemos directorio de trabajo
-setwd("~/Desktop/TEDEX_2/POLITICA/corpus_classify")
+setwd("~/Desktop/ORDAS/")
 
 #Cargamos 'stylo'
 library(stylo)
