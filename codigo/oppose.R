@@ -1,6 +1,6 @@
 
 # Establecemos directorio de trabajo
-setwd("~/Desktop/POLITICA/corpus_oppose")
+setwd("~/Desktop/ORDAS/corpus_oppose")
 
 #Cargamos 'stylo'
 library(stylo)
